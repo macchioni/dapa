@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Da Pancrazio Ristorante - Roma 
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Ristorante Da Pancrazio
+subheading: A Roma dal 1922, nella Curia del Teatro di Pompeo
 mainpitch:
-  title: Why Kaldi
+  title: Benvenuti nella vera Roma
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Il ristorante Da Pancrazio sorge sui resti del Teatro di Pompeo, cioè il più importante teatro di Roma Antica, ed è noto dal 1922 non solo per le sue sale uniche, ma anche per il sapore della tipica cucina romana che propone in un ambiente familiare con ricette che sono patrimonio di quattro generazioni.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Da Pancrazio’s is built over the Theater of Pompey‘s ruins, the well known 1st century b.C. theater where Julius Caesar was murdered. Our place has became famous in years for the unique halls where you can dine, but also for the taste of the typical roman cuisine purposed, a treasure prepared every day from our chefs following recipes we preserve since 1922. 
+
 intro:
   blurbs:
     - image: /img/coffee.png
