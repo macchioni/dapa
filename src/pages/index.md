@@ -1,9 +1,7 @@
 ---
 templateKey: index-page
-title: Da Pancrazio Ristorante - Roma 
 image: /img/dapancrazio/varieta.jpg
 heading: Ristorante Da Pancrazio
-subheading: A Roma dal 1922, nella Curia del Teatro di Pompeo
 mainpitch:
   title: Benvenuti nella vera Roma
   description: >
