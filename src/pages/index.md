@@ -1,9 +1,7 @@
 ---
 templateKey: index-page
-title: Welcome to Rome
 image: /img/dapancrazio/varieta.jpg
 heading: Ristorante Da Pancrazio
-subheading: Welcome at Pancrazio's
 mainpitch:
   title: Benvenuti nella vera Roma
   description: >
