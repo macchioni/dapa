@@ -1,7 +1,9 @@
 ---
 templateKey: index-page
+title: Great coffee with a conscience
 image: /img/dapancrazio/varieta.jpg
 heading: Ristorante Da Pancrazio
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Benvenuti nella vera Roma
   description: >
