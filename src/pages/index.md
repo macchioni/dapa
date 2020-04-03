@@ -5,11 +5,11 @@ image: /img/dapancrazio/vignarola-OK.jpg
 heading: Ristorante Da Pancrazio
 subheading: Ristorante DA PANCRAZIO
 mainpitch:
-  title: Benvenuti nella vera Roma
+  title: Benvenuti a Roma
   description: >
-    Il ristorante Da Pancrazio sorge sui resti del Teatro di Pompeo, cioè il più importante teatro di Roma Antica, ed è noto dal 1922 non solo per le sue sale uniche, ma anche per il sapore della tipica cucina romana che propone in un ambiente familiare con ricette che sono patrimonio di quattro generazioni.
-description: >-
-  Da Pancrazio’s is built over the Theater of Pompey‘s ruins, the well known 1st century b.C. theater where Julius Caesar was murdered. Our place has became famous in years for the unique halls where you can dine, but also for the taste of the typical roman cuisine purposed, a treasure prepared every day from our chefs following recipes we preserve since 1922. 
+    Il ristorante Da Pancrazio sorge sui resti del Teatro di Pompeo, cioè il più importante teatro di Roma Antica, ed è noto dal 1922 per le sue sale uniche e per il sapore della  cucina romana che propone in un ambiente familiare, con ricette che sono patrimonio di quattro generazioni.
+
+  Da Pancrazio’s is built over the Theater of Pompey‘s ruins, the well known 1st century b.C. theater where Julius Caesar was murdered. Our place has became famous in years for the unique halls where you can dine and for the taste of the typical roman cuisine purposed, a treasure prepared every day following recipes we preserve since 1922. 
 
 intro:
   blurbs:
